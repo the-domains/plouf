@@ -1,7 +1,7 @@
 name: 'Plouf!'
 favicon: null
-layout_spectrum: 0.5649306466802955
-typography_spectrum: 0.8392626733984798
+layout_spectrum: 0.27044
+typography_spectrum: 0.48695
 title: 'Plouf!'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#010302'
+    - '#01394a'
+    - '#bdc0ab'
+    - '#e7f0ed'
+    - '#037f87'
   brandStrength: 0.8087090000044554
   lightness: 0.10200917371548712
   saturation: 0.3727350062690675
